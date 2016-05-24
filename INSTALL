@@ -1,0 +1,67 @@
+*******************************************************************************
+               Adobe InDesign CC 2015.1 v11.1 Multi x64 + crack
+*******************************************************************************
+
+-------------------------------------------------------------------------------
+                              General Information
+-------------------------------------------------------------------------------
+Type.................: Application
+Plateformes..........: Windows 9x/ME/2000
+Langues..............: Franτais / Anglais / Espagnol / Russe / Japonais / 
+Italien / Coréen / Allemand / Danois / Finnois / Chinois
+Plus d'info..........: https://www.adobe.com/fr/products/indesign.html
+
+
+
+
+-------------------------------------------------------------------------------
+                               Post Information
+-------------------------------------------------------------------------------
+Posted by............: Maghomer10 (t411.in)
+
+-------------------------------------------------------------------------------
+                                 Release Notes
+-------------------------------------------------------------------------------
+- Intel Pentium 4 ou AMD Athlon 64 processeur (2 GHz ou plus rapide)
+- Microsoft Windows 7 SP1 / 8 / 8.1 / 10 
+- 1 Go de RAM
+- 2,5 Go d'espace disponible sur le disque dur pour l'installation, espace 
+supplémentaire requis durant l'installation 
+(installation impossible sur des périphériques de stockage flash amovibles)
+- Affichage de 1024x768 (1280x800 recommand'e9 avec OpenGL? 2.0, couleurs 16 
+bits 
+et 512 Mo de VRAM (1 Go recommandé)
+- Connexion Internet et d'enregistrement sont nécessaires pour l'activation du 
+logiciel nécessaire, 
+la validation de l'adhésion, et l'accès aux services en ligne.
+
+-------------------------------------------------------------------------------
+                                 Install Notes
+-------------------------------------------------------------------------------
+1. Couper la connexion Internet.
+
+-------------------------------
+
+2. Executer 'Set-up.exe' [dossier '01 - Adobe InDesign CC 2015 (64-bit)']
+
+-------------------------------
+
+3. Choisir "Tester" et cliquer ensuite sur "Se connecter" ,
+le message suivant apparait: "votre connection internet ne fonctionne pas",
+cliquez en bas sur "Se connecter plus tard", 
+accepter le contrat de license, puis "Installer".
+
+-------------------------------
+
+4. Executer 'AdobePatchInstaller.exe' [dossier '02 - Update InDesign CC 2015.1 (64-bit)']
+
+-------------------------------
+
+5. Executer 'adobe.snr.patch-painter.exe' [dossier '03 - Patch']
+Sélectionner 'Indesign CC 2015 (64 bit)', 
+puis appuyer sur 'Patch'.
+
+-------------------------------
+
+6. Reconnecté internet - tout marche =)
+
